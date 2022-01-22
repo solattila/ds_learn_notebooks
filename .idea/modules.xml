@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/dev/data_science_course/.idea/data_science_course.iml" filepath="$USER_HOME$/dev/data_science_course/.idea/data_science_course.iml" />
+      <module fileurl="file://$USER_HOME$/dev/data_science_course/Projects/ds_learn_notebooks/.idea/ds_learn_notebooks.iml" filepath="$USER_HOME$/dev/data_science_course/Projects/ds_learn_notebooks/.idea/ds_learn_notebooks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
     </modules>
   </component>
